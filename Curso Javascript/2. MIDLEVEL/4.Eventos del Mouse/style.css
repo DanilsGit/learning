@@ -1,0 +1,29 @@
+.contenedor{
+    background-color: aqua;
+    width: 100%;
+    height: 200px;
+    padding: 30px;
+}
+
+.contenedor-2{
+    background-color: #08a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.btn{
+    box-shadow: 0px 0px 20px #000;
+    padding: 8px 20px;
+    background-color: bisque;
+}
+
+.btn:hover{
+    transition: 1s all;
+    box-shadow: 0px 0px 5px #000;
+    padding: 8px 20px;
+    background-color: burlywood;
+}
+

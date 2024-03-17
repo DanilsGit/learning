@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+    background: #ededed;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-rows: 50px;
+    grid-template-columns: repeat(4,minmax(min-content,max-content));
+    grid-auto-rows: 50px;
+    background: #fff;
+}
+
+.grid-item{
+    padding: 10px;
+    border: 2px solid #26a;
+    margin: 5px;
+}
+
+.confirm-button{
+    padding: 8px  50px;
+    background-color: #48e;
+    color: #fff;
+    border: 1px solid #00327c;
+    border-radius: 5px;
+    margin: 10px 4px;
+}

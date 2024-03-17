@@ -1,0 +1,77 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.texturas_container{
+    margin: 10px 0px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.texturas_container div{
+    display: inline-block;
+    margin: 5px;
+    width: 70px;
+    height: 70px;
+    border: 1px solid #000;
+    background-size: cover;
+}
+
+.textura1{
+    background: url("./imagenes/campo1.png");
+}
+
+.textura2{
+    background: url("./imagenes/campo2.png");
+}
+
+.textura3{
+    background: url("./imagenes/campo3.png");
+}
+
+.textura4{
+    background: url("./imagenes/campo4.png");
+}
+
+.texturaA1{
+    background: url("./imagenes/A1.png");
+}
+
+.texturaA2{
+    background: url("./imagenes/A2.png");
+}
+
+.texturaA3{
+    background: url("./imagenes/A3.png");
+}
+
+.texturaA4{
+    background: url("./imagenes/A4.png");
+}
+
+
+
+.texturas_container div:active{
+    outline: 2px solid #ff0000;
+    opacity: 0.5;
+}
+
+.zona{
+    border: 2px dashed #000;
+    width: 80%;
+    height: 80vh;
+    position: relative;
+    margin: auto;
+}
+
+.animales{
+    position: absolute;
+    width: 60%;
+    height: 50%;
+    /* border: 1px dashed #ff0000; */
+    bottom: 0;
+    right: 0;
+}

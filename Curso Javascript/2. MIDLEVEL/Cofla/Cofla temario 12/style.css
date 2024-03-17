@@ -1,0 +1,49 @@
+body{
+    color: #222;
+    font-family: sans-serif;
+}
+
+.principal {
+    margin: auto;
+    width: 90%;
+    background: #888;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.principal input {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.materias {
+    margin: auto;
+    width: 90%;
+    background: #ccc;
+    padding: 2px;
+    font-size: 20px;
+}
+
+.materia {
+    background: #efefef;
+    padding: 20px;
+    display: flex;
+}
+
+.materia div {
+    padding: 20px;
+}
+
+.materia .nota {
+    flex-basis: 20px;
+    background: #ddd;
+    font-weight: 900;
+}
+
+.materia .nombre {
+    flex-grow: 1;
+}

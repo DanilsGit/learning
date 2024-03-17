@@ -1,0 +1,3 @@
+Soy el texto que tiene el documento.txt
+Acado de hacer un salto de línea.
+juas

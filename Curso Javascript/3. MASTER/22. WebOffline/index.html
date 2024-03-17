@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ServiceWorkers</title>
+</head>
+<body>
+    <h1>ServiceWorkers</h1>
+    <p>ServiceWorkers are a new browser feature that provide event-driven scripts that run independently of web pages. Unlike other workers, service workers can be shut down at any time, and restarted when necessary. They're intended to be used in situations where a web page needs to perform certain tasks without requiring user interaction, and they run in the background even when the web page is closed.</p>
+    <p>Service workers are designed to be fully async; as a consequence, APIs such as synchronous XHR and localStorage can't be used inside a service worker.</p>
+    <p>Service workers are a type of web worker, and have a similar lifecycle, but have a different API and a few more restrictions.</p>
+    <p>Service workers are event driven. They are terminated when not in use, and restarted when they're next needed, so you cannot rely on global state within a service worker's onfetch and onmessage handlers. If there is information that you need to persist and reuse across restarts, service workers do have access to the IndexedDB API.</p>
+    <script src="code.js"></script>
+</body>
+</html>

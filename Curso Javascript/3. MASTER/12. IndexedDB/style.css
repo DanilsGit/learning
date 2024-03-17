@@ -1,0 +1,70 @@
+body, input, h1, h2, div, p, button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 50px 0 ;
+}
+
+.imposible{
+    color: #ccc;
+}
+
+.posible, .delete:hover{
+    color: #1ea5ff;
+}
+
+.names {
+    margin: 30px 0;
+    width: 90%;
+}
+
+.name{
+    padding: 5px 0;
+    display : grid;
+    grid-template-columns: minmax(100px,300px) 1fr;
+    border-top: 1px solid #1ea5ff;
+}
+
+.name button{
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.name button:hover{
+    outline: none;
+}
+
+.name h2 {
+    color: #48e;
+    margin: 0;
+    padding: 0;
+
+}
+
+.options{
+    display: flex;
+    justify-self: end;
+}
+
+/* .add-names {
+
+} */
+
+#name{
+    padding: 3px 5px;
+}
+
+#add,.imposible,.delete{
+    padding: 3px 5px;
+}

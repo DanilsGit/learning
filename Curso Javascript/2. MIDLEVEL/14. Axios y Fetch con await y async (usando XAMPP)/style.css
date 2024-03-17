@@ -1,0 +1,18 @@
+body{
+    color:#000;
+    font-family: sans-serif;
+}
+
+button{
+    color: #000;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px;
+}
+
+.res {
+    background-color: #202020;
+    color: white;
+}
+

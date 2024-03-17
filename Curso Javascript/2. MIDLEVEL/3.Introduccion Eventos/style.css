@@ -1,0 +1,19 @@
+div{
+    margin: 30px;
+    padding: 20px;
+    background-color: aquamarine;
+    width: 100%;
+}
+
+button{
+    padding: 8px 20px;
+    background-color: aqua;
+}
+
+.div-1{
+    background-color: red;
+}
+
+.div-2{
+    background-color: blue;
+}
