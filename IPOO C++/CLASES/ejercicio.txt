@@ -1,0 +1,14 @@
+crear una clase "SER VIVO"
+como atributos:
+nombre
+edad
+color
+
+Tambien tienen unas funciones que son comer y dormir.
+
+Crear un menu el cual tenga como opción crear nuevo ser vivo y almacenarlo
+en un vector.
+
+Otra opcion para mostrar todos los seres vivos creados.
+
+

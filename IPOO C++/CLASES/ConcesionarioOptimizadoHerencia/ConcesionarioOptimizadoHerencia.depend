@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1653335905 source:c:\users\usuario\documents\concesionariooptimizadoherencia\automovil.cpp
+	"Automovil.h"
+	<iostream>
+
+1653335851 c:\users\usuario\documents\concesionariooptimizadoherencia\automovil.h
+	<iostream>
+
+1653335862 source:c:\users\usuario\documents\concesionariooptimizadoherencia\main.cpp
+	<iostream>
+	"Automovil.h"
+

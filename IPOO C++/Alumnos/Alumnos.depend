@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1652132802 source:c:\users\usuario\documents\clases\alumnos\main.cpp
+	<iostream>
+	"alumnos.h"
+
+1652131138 c:\users\usuario\documents\clases\alumnos\alumnos.h
+	<iostream>
+
+1652126518 source:c:\users\usuario\documents\clases\alumnos\alumnos.cpp
+	"alumnos.h"
+	<iostream>
+
+1652128294 source:c:\users\usuario\downloads\alumnos\alumnos.cpp
+	"alumnos.h"
+	<iostream>
+
+1652128294 c:\users\usuario\downloads\alumnos\alumnos.h
+	<iostream>
+
+1652319454 source:c:\users\usuario\downloads\alumnos\main.cpp
+	<iostream>
+	"alumnos.h"
+	<vector>
+

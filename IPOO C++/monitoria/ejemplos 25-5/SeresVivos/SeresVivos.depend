@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\usuario\desktop\hoy (1)\seresvivos\main.cpp
+	<iostream>
+
+1653529978 source:c:\users\usuario\desktop\hoy (1)\seresvivos\servivo.cpp
+	"SerVivo.h"
+	<iostream>
+
+1653530190 c:\users\usuario\desktop\hoy (1)\seresvivos\servivo.h
+	<iostream>
+

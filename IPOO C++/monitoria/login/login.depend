@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1652923930 source:c:\users\usuario\desktop\login\login\administrador.cpp
+	"Administrador.h"
+	<iostream>
+
+1652923831 c:\users\usuario\desktop\login\login\administrador.h
+	<Usuario.h>
+	<iostream>
+
+1652923873 c:\users\usuario\desktop\login\login\usuario.h
+	<iostream>
+
+1652923943 source:c:\users\usuario\desktop\login\login\gerente.cpp
+	"Gerente.h"
+
+1652923831 c:\users\usuario\desktop\login\login\gerente.h
+	<Usuario.h>
+
+1652924534 source:c:\users\usuario\desktop\login\login\main.cpp
+	<iostream>
+	<vector>
+	<Administrador.h>
+	<Gerente.h>
+	"Usuario.h"
+	<iostream>
+
+1652922564 source:c:\users\usuario\desktop\login\login\usuario.cpp
+	"Usuario.h"
+

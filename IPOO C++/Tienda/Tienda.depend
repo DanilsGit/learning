@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1652316181 source:c:\users\usuario\downloads\tienda\usuario.cpp
+	"Usuario.h"
+
+1652317691 c:\users\usuario\downloads\tienda\usuario.h
+	<iostream>
+
+1652317529 source:c:\users\usuario\downloads\tienda\producto.cpp
+	"Producto.h"
+	<iostream>
+
+1652317699 c:\users\usuario\downloads\tienda\producto.h
+	<iostream>
+

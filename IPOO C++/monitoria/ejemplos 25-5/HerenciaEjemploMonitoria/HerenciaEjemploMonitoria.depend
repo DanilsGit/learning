@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1653525714 source:c:\users\usuario\desktop\hoy (1)\herenciaejemplomonitoria\figura.cpp
+	"Figura.h"
+	<iostream>
+
+1653527568 c:\users\usuario\desktop\hoy (1)\herenciaejemplomonitoria\figura.h
+	<iostream>
+
+1653528666 source:c:\users\usuario\desktop\hoy (1)\herenciaejemplomonitoria\main.cpp
+	<iostream>
+	"Circulo.h"
+	"Cuadrado.h"
+	"Figura.h"
+
+1653527899 source:c:\users\usuario\desktop\hoy (1)\herenciaejemplomonitoria\cuadrado.cpp
+	"Cuadrado.h"
+	<iostream>
+
+1653527519 c:\users\usuario\desktop\hoy (1)\herenciaejemplomonitoria\cuadrado.h
+	"Cuadrado.h"
+	"Figura.h"
+
+1653527552 source:c:\users\usuario\desktop\hoy (1)\herenciaejemplomonitoria\circulo.cpp
+	"Circulo.h"
+	<iostream>
+	<math.h>
+
+1653527552 c:\users\usuario\desktop\hoy (1)\herenciaejemplomonitoria\circulo.h
+	"Figura.h"
+	<iostream>
+

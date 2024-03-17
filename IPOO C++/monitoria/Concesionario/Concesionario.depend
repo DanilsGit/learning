@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1652915925 source:c:\users\usuario\documents\clases\concesionario\main.cpp
+	<iostream>
+
+1652917736 source:c:\users\usuario\documents\clases\concesionario\automovil.cpp
+	"Automovil.h"
+	<iostream>
+
+1652917482 c:\users\usuario\documents\clases\concesionario\automovil.h
+	<iostream>
+
+1652917452 source:c:\users\usuario\documents\clases\concesionario\minivan.cpp
+	"Minivan.h"
+
+1652917505 c:\users\usuario\documents\clases\concesionario\minivan.h
+	<Automovil.h>
+	<iostream>
+
+1652917482 c:\users\usuario\documents\clases\concesionario\\automovil.h
+	<iostream>
+
