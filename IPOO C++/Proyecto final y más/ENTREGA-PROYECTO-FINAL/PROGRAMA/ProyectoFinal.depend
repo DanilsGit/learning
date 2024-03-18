@@ -1,0 +1,745 @@
+# depslib dependency file v1.0
+1654399666 source:d:\usuario\desktop\proyectofinal\main.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	<iostream>
+	<vector>
+	<windows.h>
+
+1654038514 d:\usuario\desktop\proyectofinal\usuariocompleto.h
+	<iostream>
+
+1654038718 source:d:\usuario\desktop\proyectofinal\personaldesalud.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038692 d:\usuario\desktop\proyectofinal\personaldesalud.h
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654055435 source:d:\usuario\desktop\proyectofinal\profesionales.cpp
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038662 d:\usuario\desktop\proyectofinal\profesionales.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059038 source:d:\usuario\desktop\proyectofinal\recepcion.cpp
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059044 d:\usuario\desktop\proyectofinal\recepcion.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052549 d:\usuario\desktop\proyectofinal\gerente.h
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052549 source:d:\usuario\desktop\proyectofinal\gerente.cpp
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052381 source:d:\usuario\desktop\proyectofinal\paciente.cpp
+	"Paciente.h"
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052381 d:\usuario\desktop\proyectofinal\paciente.h
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654222396 source:d:\usuario\desktop\proyectofinal\usuariocompleto.cpp
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052549 source:d:\descargas\ipoo\proyectofinal\gerente.cpp
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052549 d:\descargas\ipoo\proyectofinal\gerente.h
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038514 d:\descargas\ipoo\proyectofinal\usuariocompleto.h
+	<iostream>
+
+1654052381 source:d:\descargas\ipoo\proyectofinal\paciente.cpp
+	"Paciente.h"
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052381 d:\descargas\ipoo\proyectofinal\paciente.h
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059044 d:\descargas\ipoo\proyectofinal\recepcion.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038718 source:d:\descargas\ipoo\proyectofinal\personaldesalud.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038692 d:\descargas\ipoo\proyectofinal\personaldesalud.h
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038662 d:\descargas\ipoo\proyectofinal\profesionales.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654055435 source:d:\descargas\ipoo\proyectofinal\profesionales.cpp
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059038 source:d:\descargas\ipoo\proyectofinal\recepcion.cpp
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038511 source:d:\descargas\ipoo\proyectofinal\usuariocompleto.cpp
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654135030 source:d:\descargas\ipoo\proyectofinal\main.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	<iostream>
+	<vector>
+	<windows.h>
+
+1654225877 source:d:\usuario\desktop\proyectofinal\citas.cpp
+	"Citas.h"
+	<iostream>
+
+1654225776 d:\usuario\desktop\proyectofinal\citas.h
+	<iostream>
+
+1655482921 source:c:\users\usuario\onedrive\escritorio\proyectofinal\citas.cpp
+	"Citas.h"
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655301418 c:\users\usuario\onedrive\escritorio\proyectofinal\citas.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1654052549 source:c:\users\usuario\onedrive\escritorio\proyectofinal\gerente.cpp
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052549 c:\users\usuario\onedrive\escritorio\proyectofinal\gerente.h
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038514 c:\users\usuario\onedrive\escritorio\proyectofinal\usuariocompleto.h
+	<iostream>
+
+1655497498 source:c:\users\usuario\onedrive\escritorio\proyectofinal\main.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	"Citas.h"
+	"Procedimientos.h"
+	"Medicamentos.h"
+	<iostream>
+	<vector>
+	<windows.h>
+
+1654038692 c:\users\usuario\onedrive\escritorio\proyectofinal\personaldesalud.h
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038662 c:\users\usuario\onedrive\escritorio\proyectofinal\profesionales.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655240531 c:\users\usuario\onedrive\escritorio\proyectofinal\paciente.h
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059044 c:\users\usuario\onedrive\escritorio\proyectofinal\recepcion.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052381 source:c:\users\usuario\onedrive\escritorio\proyectofinal\paciente.cpp
+	"Paciente.h"
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038718 source:c:\users\usuario\onedrive\escritorio\proyectofinal\personaldesalud.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654055435 source:c:\users\usuario\onedrive\escritorio\proyectofinal\profesionales.cpp
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059038 source:c:\users\usuario\onedrive\escritorio\proyectofinal\recepcion.cpp
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654222396 source:c:\users\usuario\onedrive\escritorio\proyectofinal\usuariocompleto.cpp
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655302014 source:c:\users\usuario\onedrive\escritorio\proyectofinal\src\historialmedico.cpp
+	"HistorialMedico.h"
+
+1655301766 c:\users\usuario\onedrive\escritorio\proyectofinal\\historialmedico.h
+	<iostream>
+
+1655332364 source:c:\users\usuario\onedrive\escritorio\proyectofinal\perfildesalud.cpp
+	"PerfilDeSalud.h"
+	<iostream>
+
+1655332364 c:\users\usuario\onedrive\escritorio\proyectofinal\perfildesalud.h
+	<iostream>
+
+1655335136 source:c:\users\usuario\onedrive\escritorio\proyectofinal\historialmedico.cpp
+	"HistorialMedico.h"
+	<iostream>
+
+1655332364 c:\users\usuario\onedrive\escritorio\proyectofinal\historialmedico.h
+	<iostream>
+
+1655484557 source:c:\users\usuario\onedrive\escritorio\proyectofinal\procedimientos.cpp
+	"Procedimientos.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655484557 c:\users\usuario\onedrive\escritorio\proyectofinal\procedimientos.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655497509 source:c:\users\usuario\onedrive\escritorio\proyectofinal\medicamentos.cpp
+	"Medicamentos.h"
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655497498 c:\users\usuario\onedrive\escritorio\proyectofinal\medicamentos.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655482922 source:d:\descargas\ipoo\6-17\proyectofinal\citas.cpp
+	"Citas.h"
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655301420 d:\descargas\ipoo\6-17\proyectofinal\citas.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1654038516 d:\descargas\ipoo\6-17\proyectofinal\usuariocompleto.h
+	<iostream>
+
+1654052550 source:d:\descargas\ipoo\6-17\proyectofinal\gerente.cpp
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052550 d:\descargas\ipoo\6-17\proyectofinal\gerente.h
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655510572 source:d:\descargas\ipoo\6-17\proyectofinal\historialmedico.cpp
+	"HistorialMedico.h"
+	<iostream>
+
+1655511083 d:\descargas\ipoo\6-17\proyectofinal\historialmedico.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655497510 source:d:\descargas\ipoo\6-17\proyectofinal\medicamentos.cpp
+	"Medicamentos.h"
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655497500 d:\descargas\ipoo\6-17\proyectofinal\medicamentos.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1654052382 source:d:\descargas\ipoo\6-17\proyectofinal\paciente.cpp
+	"Paciente.h"
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655240532 d:\descargas\ipoo\6-17\proyectofinal\paciente.h
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059046 d:\descargas\ipoo\6-17\proyectofinal\recepcion.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655332366 source:d:\descargas\ipoo\6-17\proyectofinal\perfildesalud.cpp
+	"PerfilDeSalud.h"
+	<iostream>
+
+1655332366 d:\descargas\ipoo\6-17\proyectofinal\perfildesalud.h
+	<iostream>
+
+1654038720 source:d:\descargas\ipoo\6-17\proyectofinal\personaldesalud.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038694 d:\descargas\ipoo\6-17\proyectofinal\personaldesalud.h
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038664 d:\descargas\ipoo\6-17\proyectofinal\profesionales.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655484558 source:d:\descargas\ipoo\6-17\proyectofinal\procedimientos.cpp
+	"Procedimientos.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655484558 d:\descargas\ipoo\6-17\proyectofinal\procedimientos.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1654055436 source:d:\descargas\ipoo\6-17\proyectofinal\profesionales.cpp
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059040 source:d:\descargas\ipoo\6-17\proyectofinal\recepcion.cpp
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654222398 source:d:\descargas\ipoo\6-17\proyectofinal\usuariocompleto.cpp
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655512730 source:d:\descargas\ipoo\6-17\proyectofinal\main.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	"Citas.h"
+	"Procedimientos.h"
+	"Medicamentos.h"
+	"HistorialMedico.h"
+	<iostream>
+	<vector>
+	<windows.h>
+
+1655482922 source:c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\citas.cpp
+	"Citas.h"
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655301420 c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\citas.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1654038516 c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\usuariocompleto.h
+	<iostream>
+
+1654052550 source:c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\gerente.cpp
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052550 c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\gerente.h
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655510572 source:c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\historialmedico.cpp
+	"HistorialMedico.h"
+	<iostream>
+
+1655511083 c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\historialmedico.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655497510 source:c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\medicamentos.cpp
+	"Medicamentos.h"
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655497500 c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\medicamentos.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1654052382 source:c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\paciente.cpp
+	"Paciente.h"
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655240532 c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\paciente.h
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059046 c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\recepcion.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038720 source:c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\personaldesalud.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038694 c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\personaldesalud.h
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038664 c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\profesionales.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655484558 source:c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\procedimientos.cpp
+	"Procedimientos.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655484558 c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\procedimientos.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1654055436 source:c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\profesionales.cpp
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059040 source:c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\recepcion.cpp
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654222398 source:c:\users\usuario\onedrive\escritorio\proyectofinal-viernes-17\usuariocompleto.cpp
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655482922 source:d:\descargas\ipoo\6-17\proyectofinal-viernes-17\citas.cpp
+	"Citas.h"
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655301420 d:\descargas\ipoo\6-17\proyectofinal-viernes-17\citas.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1654038516 d:\descargas\ipoo\6-17\proyectofinal-viernes-17\usuariocompleto.h
+	<iostream>
+
+1654052550 source:d:\descargas\ipoo\6-17\proyectofinal-viernes-17\gerente.cpp
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052550 d:\descargas\ipoo\6-17\proyectofinal-viernes-17\gerente.h
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655510574 source:d:\descargas\ipoo\6-17\proyectofinal-viernes-17\historialmedico.cpp
+	"HistorialMedico.h"
+	<iostream>
+
+1655511084 d:\descargas\ipoo\6-17\proyectofinal-viernes-17\historialmedico.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655497510 source:d:\descargas\ipoo\6-17\proyectofinal-viernes-17\medicamentos.cpp
+	"Medicamentos.h"
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655497500 d:\descargas\ipoo\6-17\proyectofinal-viernes-17\medicamentos.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1654052382 source:d:\descargas\ipoo\6-17\proyectofinal-viernes-17\paciente.cpp
+	"Paciente.h"
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655240532 d:\descargas\ipoo\6-17\proyectofinal-viernes-17\paciente.h
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059046 d:\descargas\ipoo\6-17\proyectofinal-viernes-17\recepcion.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038720 source:d:\descargas\ipoo\6-17\proyectofinal-viernes-17\personaldesalud.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038694 d:\descargas\ipoo\6-17\proyectofinal-viernes-17\personaldesalud.h
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038664 d:\descargas\ipoo\6-17\proyectofinal-viernes-17\profesionales.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655484558 source:d:\descargas\ipoo\6-17\proyectofinal-viernes-17\procedimientos.cpp
+	"Procedimientos.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655484558 d:\descargas\ipoo\6-17\proyectofinal-viernes-17\procedimientos.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1654055436 source:d:\descargas\ipoo\6-17\proyectofinal-viernes-17\profesionales.cpp
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059040 source:d:\descargas\ipoo\6-17\proyectofinal-viernes-17\recepcion.cpp
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654222398 source:d:\descargas\ipoo\6-17\proyectofinal-viernes-17\usuariocompleto.cpp
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655572902 source:d:\descargas\ipoo\6-17\proyectofinal-viernes-17\main.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	"Citas.h"
+	"Procedimientos.h"
+	"Medicamentos.h"
+	"HistorialMedico.h"
+	<iostream>
+	<vector>
+	<windows.h>
+
+1655482922 source:d:\descargas\ipoo\6-17\proyectofinal-sabado-18\citas.cpp
+	"Citas.h"
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655301420 d:\descargas\ipoo\6-17\proyectofinal-sabado-18\citas.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1654038516 d:\descargas\ipoo\6-17\proyectofinal-sabado-18\usuariocompleto.h
+	<iostream>
+
+1654052550 source:d:\descargas\ipoo\6-17\proyectofinal-sabado-18\gerente.cpp
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654052550 d:\descargas\ipoo\6-17\proyectofinal-sabado-18\gerente.h
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655510574 source:d:\descargas\ipoo\6-17\proyectofinal-sabado-18\historialmedico.cpp
+	"HistorialMedico.h"
+	<iostream>
+
+1655511084 d:\descargas\ipoo\6-17\proyectofinal-sabado-18\historialmedico.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655572902 source:d:\descargas\ipoo\6-17\proyectofinal-sabado-18\main.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	"Citas.h"
+	"Procedimientos.h"
+	"Medicamentos.h"
+	"HistorialMedico.h"
+	<iostream>
+	<vector>
+	<windows.h>
+
+1654038694 d:\descargas\ipoo\6-17\proyectofinal-sabado-18\personaldesalud.h
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038664 d:\descargas\ipoo\6-17\proyectofinal-sabado-18\profesionales.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655240532 d:\descargas\ipoo\6-17\proyectofinal-sabado-18\paciente.h
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059046 d:\descargas\ipoo\6-17\proyectofinal-sabado-18\recepcion.h
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655484558 d:\descargas\ipoo\6-17\proyectofinal-sabado-18\procedimientos.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655497500 d:\descargas\ipoo\6-17\proyectofinal-sabado-18\medicamentos.h
+	<iostream>
+	"UsuarioCompleto.h"
+
+1655497510 source:d:\descargas\ipoo\6-17\proyectofinal-sabado-18\medicamentos.cpp
+	"Medicamentos.h"
+	<iostream>
+	"UsuarioCompleto.h"
+
+1654052382 source:d:\descargas\ipoo\6-17\proyectofinal-sabado-18\paciente.cpp
+	"Paciente.h"
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654038720 source:d:\descargas\ipoo\6-17\proyectofinal-sabado-18\personaldesalud.cpp
+	"PersonalDeSalud.h"
+	"Profesionales.h"
+	"Gerente.h"
+	"Paciente.h"
+	"Recepcion.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1655484558 source:d:\descargas\ipoo\6-17\proyectofinal-sabado-18\procedimientos.cpp
+	"Procedimientos.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654055436 source:d:\descargas\ipoo\6-17\proyectofinal-sabado-18\profesionales.cpp
+	"Profesionales.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654059040 source:d:\descargas\ipoo\6-17\proyectofinal-sabado-18\recepcion.cpp
+	"Recepcion.h"
+	"Gerente.h"
+	"UsuarioCompleto.h"
+	<iostream>
+
+1654222398 source:d:\descargas\ipoo\6-17\proyectofinal-sabado-18\usuariocompleto.cpp
+	"UsuarioCompleto.h"
+	<iostream>
+

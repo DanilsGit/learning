@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1653346425 source:c:\users\usuario\documents\tiposdocentes\main.cpp
+	<iostream>
+	"Docente.h"
+	"DTC.h"
+	"DHC.h"
+	"Monitor.h"
+	"DMT.h"
+
+1653341615 source:c:\users\usuario\documents\tiposdocentes\docente.cpp
+	"Docente.h"
+	<iostream>
+	<string>
+
+1653341398 c:\users\usuario\documents\tiposdocentes\docente.h
+	<iostream>
+
+1653341398 c:\users\usuario\documents\tiposdocentes\dtc.h
+	"Docente.h"
+	<iostream>
+
+1653342488 source:c:\users\usuario\documents\tiposdocentes\dtc.cpp
+	"DTC.h"
+	"Docente.h"
+	<iostream>
+
+1653343302 c:\users\usuario\documents\tiposdocentes\dhc.h
+	"Docente.h"
+	<iostream>
+
+1653343740 source:c:\users\usuario\documents\tiposdocentes\dhc.cpp
+	"DHC.h"
+	<iostream>
+	"Docente.h"
+
+1653345596 source:c:\users\usuario\documents\tiposdocentes\monitor.cpp
+	"Monitor.h"
+	"Docente.h"
+	<iostream>
+
+1653345595 c:\users\usuario\documents\tiposdocentes\monitor.h
+	"Docente.h"
+	<iostream>
+
+1653346161 source:c:\users\usuario\documents\tiposdocentes\dmt.cpp
+	"DMT.h"
+	"DTC.h"
+	<iostream>
+
+1653346225 c:\users\usuario\documents\tiposdocentes\dmt.h
+	"DTC.h"
+
+1653336540 source:d:\descargas\tiposdocentes-20220524t030901z-001\tiposdocentes\dhc.cpp
+	"DHC.h"
+	<iostream>
+	"Docente.h"
+
+1653336102 d:\descargas\tiposdocentes-20220524t030901z-001\tiposdocentes\dhc.h
+	"Docente.h"
+	<iostream>
+
+1653334198 d:\descargas\tiposdocentes-20220524t030901z-001\tiposdocentes\docente.h
+	<iostream>
+
+1653338960 source:d:\descargas\tiposdocentes-20220524t030901z-001\tiposdocentes\dmt.cpp
+	"DMT.h"
+	"DTC.h"
+	<iostream>
+
+1653339024 d:\descargas\tiposdocentes-20220524t030901z-001\tiposdocentes\dmt.h
+	"DTC.h"
+
+1653334198 d:\descargas\tiposdocentes-20220524t030901z-001\tiposdocentes\dtc.h
+	"Docente.h"
+	<iostream>
+
+1653334414 source:d:\descargas\tiposdocentes-20220524t030901z-001\tiposdocentes\docente.cpp
+	"Docente.h"
+	<iostream>
+	<string>
+
+1653335288 source:d:\descargas\tiposdocentes-20220524t030901z-001\tiposdocentes\dtc.cpp
+	"DTC.h"
+	"Docente.h"
+	<iostream>
+
+1653338396 source:d:\descargas\tiposdocentes-20220524t030901z-001\tiposdocentes\monitor.cpp
+	"Monitor.h"
+	"Docente.h"
+	<iostream>
+
+1653338394 d:\descargas\tiposdocentes-20220524t030901z-001\tiposdocentes\monitor.h
+	"Docente.h"
+	<iostream>
+
+1653452543 source:d:\descargas\tiposdocentes-20220524t030901z-001\tiposdocentes\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	"Docente.h"
+	"DTC.h"
+	"DHC.h"
+	"Monitor.h"
+	"DMT.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1653336630 source:c:\users\usuario\desktop\joan\23-05-22 - sobrecarga de constructores\concesionario\main.cpp
+	<iostream>
+	"Automovil.h"
+
+1653335686 c:\users\usuario\desktop\joan\23-05-22 - sobrecarga de constructores\concesionario\include\automovil.h
+	<iostream>
+
+1653335938 source:c:\users\usuario\desktop\joan\23-05-22 - sobrecarga de constructores\concesionario\automovil.cpp
+	<iostream>
+	"Automovil.h"
+
+1653336762 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\23-05-22 - sobrecarga de constructores\hecho en clase\concesionario\automovil.cpp
+	<iostream>
+	"Automovil.h"
+
+1653335688 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\23-05-22 - sobrecarga de constructores\hecho en clase\concesionario\include\automovil.h
+	<iostream>
+
+1653336632 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\23-05-22 - sobrecarga de constructores\hecho en clase\concesionario\main.cpp
+	<iostream>
+	"Automovil.h"
+

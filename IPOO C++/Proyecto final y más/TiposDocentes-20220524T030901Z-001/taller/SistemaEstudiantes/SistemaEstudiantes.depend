@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1652741001 source:e:\ipoo\taller\sistemaestudiantes\main.cpp
+	<iostream>
+	"Estudiante.h"
+	<vector>
+
+1652733650 e:\ipoo\taller\sistemaestudiantes\estudiante.h
+	<iostream>
+	<vector>
+
+1652738742 source:e:\ipoo\taller\sistemaestudiantes\estudiante.cpp
+	"Estudiante.h"
+	<iostream>
+	<conio.h>
+
+1652738742 source:d:\descargas\tiposdocentes-20220524t030901z-001\taller\sistemaestudiantes\estudiante.cpp
+	"Estudiante.h"
+	<iostream>
+	<conio.h>
+
+1652733650 d:\descargas\tiposdocentes-20220524t030901z-001\taller\sistemaestudiantes\estudiante.h
+	<iostream>
+	<vector>
+
+1653427754 source:d:\descargas\tiposdocentes-20220524t030901z-001\taller\sistemaestudiantes\main.cpp
+	<iostream>
+	"Estudiante.h"
+	<vector>
+
